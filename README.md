@@ -3,7 +3,7 @@
 - 20 years of experience in construction, in various positions
 - more than 15 years of implementation of different IT systems in construction
 - 🌱 I’m currently learning data analysis and AI.
-- 💞️ I’m looking to collaborate on IT (AI, ML, RL) integration in construction. 
+- 💞️ I’m looking to collaborate on IT (AI, ML, RL) integration in construction & engeneering 
 - 📫 How to reach me larikhin@gmail.com
 
 <!---
